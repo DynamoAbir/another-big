@@ -1,0 +1,35 @@
+
+
+h1{
+    font-size: 50px;
+    font-family: 'Comforter', cursive;
+    
+}
+
+
+.spen{
+    color: aqua;
+}
+
+.peragraph-side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.about-abir{
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p-tag{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.abir-photo{
+    float: right;
+    width: 40%;
+}
