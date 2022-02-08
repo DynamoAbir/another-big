@@ -64,6 +64,8 @@ height:500px;}
 
 
 
+
+
 body{
     background-image: url(./Images/Valorent\ backgorund.jpg);
     -webkit-background-size: cover;
@@ -122,3 +124,78 @@ header{
     border-radius: 5px;
     background-color:rgb(219, 55, 55) ;
 }
+
+
+/*============================End of Nav Bar=======================*/
+
+
+h1{
+    font-size: 50px;
+    font-family: 'Comforter', cursive;
+    
+}
+
+
+.spen-two{
+    color: rgb(37, 40, 230);
+}
+
+.peragraph-side-two{
+    color: rgb(126, 198, 240);
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%;
+    letter-spacing: 2px;
+    
+
+}
+
+.about-shagor{
+    padding-top: 20px;
+    font-family: 'Courgette', cursive;
+    
+}
+
+.p-tag-two{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.shagor-photo{
+    float: left;
+    width: 40%;
+    height: 500px;
+
+    
+}
+.second-part{background-color: #ef5777;
+height:500px;}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+    .shagor-link{
+        text-decoration: none;
+        background-image: linear-gradient(45deg, rgb(36, 33, 33) , rgb(37, 40, 230));
+        padding: 15px 30px;
+        border-radius: 10px;
+        color:rgb(126, 198, 240) ;
+        font-family: 'Comforter', cursive;
+        font-size: 25px;
+        
+        
+    }
+    
+    
+
+
+
+.Shagor-name{font-family: 'Great Vibes', cursive;}
+
+
+
+/*=======================End Of Shagor Part=======================*/
